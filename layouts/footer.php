@@ -15,6 +15,7 @@
 </div>
 <div class="copy"><span class="style1"> Copyright 2010 Название сайта </span>
 
+   <div></div>
 </div>
 </div>
 </center>
